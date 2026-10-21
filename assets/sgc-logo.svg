@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="160" viewBox="0 0 560 160" role="img" aria-labelledby="t">
+  <title id="t">SGC logo option 3: circular seal with saffron lettering</title>
+  <rect width="560" height="160" rx="24" fill="#fff"/>
+  <circle cx="98" cy="80" r="61" fill="#082c70"/>
+  <circle cx="98" cy="80" r="50" fill="none" stroke="#ffca05" stroke-width="3"/>
+  <text x="98" y="94" text-anchor="middle" font-family="Arial,sans-serif" font-size="40" font-weight="800" letter-spacing="1" fill="#fff">SGC</text>
+  <path d="M61 108h74" stroke="#ffca05" stroke-width="4" stroke-linecap="round"/>
+  <text x="185" y="101" font-family="Arial,sans-serif" font-size="80" font-weight="800" letter-spacing="2" fill="#ff9933">SGC</text>
+  <path d="M188 119h244" stroke="#075bd8" stroke-width="5" stroke-linecap="round"/>
+  <text x="188" y="145" font-family="Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="3" fill="#075bd8">SAWARDE · RATNAGIRI</text>
+</svg>
+
+
